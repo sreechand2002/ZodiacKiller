@@ -4,11 +4,11 @@
   * Python
   * Pandas
 # How do I contribute?
-  Check out the contributing guidelines to learn more!
-  [Click here!](https://github.com/acmpesuecc/ZodiacKiller/blob/master/contributingrules.md).
+  Check out the contributing guidelines to learn more!<br />
+  Click [here!](https://github.com/acmpesuecc/ZodiacKiller/blob/master/contributingrules.md) for contributing guidelines.
   
 # Is this beginner friendly?
   YES!
 # What if I have a problem?
-  Contact any of the ACM Team members!
-  ##This is one of the official repositories created by ACM PESU-ECC for hacktoberfest 2020!## 
+  Contact any of the ACM Team members!<br />
+  **This is one of the official repositories created by ACM PESU-ECC for hacktoberfest 2020!** 
