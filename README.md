@@ -5,7 +5,7 @@
   * Pandas
 # How do I contribute?
   Check out the contributing guidelines to learn more!
-  https://github.com/jeff10joy/ZodiacKiller/blob/master/codeofconduct.md
+  
 # Is this beginner friendly?
   YES!
 # What if I have a problem?
