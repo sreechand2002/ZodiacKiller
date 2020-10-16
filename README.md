@@ -5,6 +5,7 @@
   * Pandas
 # How do I contribute?
   Check out the contributing guidelines to learn more!
+  Click here.
   
 # Is this beginner friendly?
   YES!
