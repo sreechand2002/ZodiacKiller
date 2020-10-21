@@ -1,4 +1,4 @@
-*Contributing to ZodiacKiller*
+**Contributing to ZodiacKiller**
 
 Hello and welcome! We are so glad that you are interesting in contributing to ZodiacKiller!
 We only have a couple of rules and we hope you enjoy the process :)<br />
@@ -21,4 +21,4 @@ We only have a couple of rules and we hope you enjoy the process :)<br />
    10).Mention what Issue you have worked on. If the issue number is #3, you can mention "Closes #3" in the Pull Request description.<br />
    11).Submit Pull Request<br />
 
-It's that easy! We hope you enjoy contributing to our repository. **Don't hesitate to contact any of the maintainers or ACM team about any problems!
+It's that easy! We hope you enjoy contributing to our repository. **Don't hesitate to contact any of the maintainers or ACM team about any problems!**
