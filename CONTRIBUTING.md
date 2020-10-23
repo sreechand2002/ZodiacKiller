@@ -17,7 +17,7 @@ We only have a couple of rules and we hope you enjoy the process :)<br />
 
 4. Issues marked "hacktoberfest" and "Help Needed" are a great place to start!!
 
-5. Comment below the issue you are working on. Closing issues will be done at the discretion of the maintainer.
+5. Comment below the issue you are working on. For certain issues only a few PR's will be accepted(~3, also depends on the time elapsed), and the issue will be closed soon after.
 
 6. Now you can start working on the issue in the local copy of your ipynb file (as downloaded in step 1&2). Once done working on the issue, save and upload your local copy of the ipynb to your forked repository. 
 
@@ -31,4 +31,4 @@ OR iii)changes will be requested iv)if outside the submission window/ after issu
 Note: Please create separate Pull Requests for each issue. One PR closing multiple issues will NOT be encouraged.
 
 
-It's that easy! We hope you enjoy contributing to our repository. **Don't hesitate to contact any of the maintainers or ACM team about any problems!**
+It's that easy! We hope you enjoy contributing to our repository. **Don't hesitate to contact any of the maintainers or ACM team about any problems!You can reach us out on discord servers.**
