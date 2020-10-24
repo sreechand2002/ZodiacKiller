@@ -5,7 +5,7 @@
   * Pandas
 # How do I contribute?
   Check out the contributing guidelines to learn more!<br />
-  Click [here!](https://github.com/acmpesuecc/ZodiacKiller/blob/master/contributingrules.md) for contributing guidelines.
+  Click [here!](https://github.com/acmpesuecc/ZodiacKiller/blob/master/CONTRIBUTING.md) for contributing guidelines.
   
 # Is this beginner friendly?
   YES!
