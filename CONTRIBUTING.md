@@ -9,7 +9,7 @@ We only have a couple of rules and we hope you enjoy the process :)<br />
 
 **Contributing Process**<br />
 
-   1. Fork this repository to your Github account. Once it is forked, follow the steps defined under "CloningJupyterNotebook.md" in this repository (as it is a slightly different process for ipynb files). You will also need to download the dataset so you can use it while running the notebook locally on your PC.
+   1. Fork this repository to your Github account. Once it is forked, follow the steps defined under ["CloningJupyterNotebook.md"](https://github.com/acmpesuecc/ZodiacKiller/blob/master/CloningJupyterNotebook.md) in this repository (as it is a slightly different process for ipynb files). You will also need to download the dataset so you can use it while running the notebook locally on your PC.
 
 2. Run the downloaded ipynb file on Jupyter Notebooks, and make sure the dataset is in the same directory(on your local computer) as the notebook.
 
